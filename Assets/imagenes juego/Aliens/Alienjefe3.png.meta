@@ -1,0 +1,5892 @@
+fileFormatVersion: 2
+guid: dc3bbb6ff14717a40a68f55e1a846146
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3514205526808379337
+    second: Alienjefe3_0
+  - first:
+      213: -3983548437759085577
+    second: Alienjefe3_1
+  - first:
+      213: 4997488155360986712
+    second: Alienjefe3_2
+  - first:
+      213: 261661087552475176
+    second: Alienjefe3_3
+  - first:
+      213: 720841023638568056
+    second: Alienjefe3_4
+  - first:
+      213: -2589025788071464955
+    second: Alienjefe3_5
+  - first:
+      213: -6733576567388473006
+    second: Alienjefe3_6
+  - first:
+      213: -2215837608692039354
+    second: Alienjefe3_7
+  - first:
+      213: -999596848349109226
+    second: Alienjefe3_8
+  - first:
+      213: -2497364462900846740
+    second: Alienjefe3_9
+  - first:
+      213: -8610774790555369397
+    second: Alienjefe3_10
+  - first:
+      213: 587450708154051121
+    second: Alienjefe3_11
+  - first:
+      213: 1143057848154020846
+    second: Alienjefe3_12
+  - first:
+      213: 8032556632279897494
+    second: Alienjefe3_13
+  - first:
+      213: -757281695851314897
+    second: Alienjefe3_14
+  - first:
+      213: 7089371402652465884
+    second: Alienjefe3_15
+  - first:
+      213: 7513742737041128874
+    second: Alienjefe3_16
+  - first:
+      213: -514026327927228259
+    second: Alienjefe3_17
+  - first:
+      213: -3647299850810987157
+    second: Alienjefe3_18
+  - first:
+      213: -8942473528217700218
+    second: Alienjefe3_19
+  - first:
+      213: -4385912518562911214
+    second: Alienjefe3_20
+  - first:
+      213: -7987596248058961239
+    second: Alienjefe3_21
+  - first:
+      213: -8320785367486246131
+    second: Alienjefe3_22
+  - first:
+      213: 6187058848985611999
+    second: Alienjefe3_23
+  - first:
+      213: -4842235256664289043
+    second: Alienjefe3_24
+  - first:
+      213: 3703546133559079670
+    second: Alienjefe3_25
+  - first:
+      213: 180661106390382510
+    second: Alienjefe3_26
+  - first:
+      213: -8134196619912444078
+    second: Alienjefe3_27
+  - first:
+      213: -2018808389647753316
+    second: Alienjefe3_28
+  - first:
+      213: 6030402962928178740
+    second: Alienjefe3_29
+  - first:
+      213: -6672605167789663229
+    second: Alienjefe3_30
+  - first:
+      213: -90019580622219665
+    second: Alienjefe3_31
+  - first:
+      213: -8507038998899126578
+    second: Alienjefe3_32
+  - first:
+      213: -1870897114726981423
+    second: Alienjefe3_33
+  - first:
+      213: 5938333306529696824
+    second: Alienjefe3_34
+  - first:
+      213: -1503624989092218717
+    second: Alienjefe3_35
+  - first:
+      213: 5999665755060464094
+    second: Alienjefe3_36
+  - first:
+      213: 9194904621943873085
+    second: Alienjefe3_37
+  - first:
+      213: -1421345585444160721
+    second: Alienjefe3_38
+  - first:
+      213: 3625677351733217886
+    second: Alienjefe3_39
+  - first:
+      213: -5163919449289110384
+    second: Alienjefe3_40
+  - first:
+      213: 273105954280103099
+    second: Alienjefe3_41
+  - first:
+      213: -4459378196774118596
+    second: Alienjefe3_42
+  - first:
+      213: -4509880020552725229
+    second: Alienjefe3_43
+  - first:
+      213: -293583429503672977
+    second: Alienjefe3_44
+  - first:
+      213: 8739064164791891963
+    second: Alienjefe3_45
+  - first:
+      213: -148567926923284601
+    second: Alienjefe3_46
+  - first:
+      213: 8584611472004746762
+    second: Alienjefe3_47
+  - first:
+      213: -4376683400702106656
+    second: Alienjefe3_48
+  - first:
+      213: -6658152086197795705
+    second: Alienjefe3_49
+  - first:
+      213: -2672620452975356795
+    second: Alienjefe3_50
+  - first:
+      213: -9192022278225564536
+    second: Alienjefe3_51
+  - first:
+      213: -8780775052868114489
+    second: Alienjefe3_52
+  - first:
+      213: -8929125544093190246
+    second: Alienjefe3_53
+  - first:
+      213: 6057715059780895906
+    second: Alienjefe3_54
+  - first:
+      213: 6164180323796661670
+    second: Alienjefe3_55
+  - first:
+      213: 8255866322172395665
+    second: Alienjefe3_56
+  - first:
+      213: -574337645906143942
+    second: Alienjefe3_57
+  - first:
+      213: 2248382774913801475
+    second: Alienjefe3_58
+  - first:
+      213: -5735000068290740264
+    second: Alienjefe3_59
+  - first:
+      213: -4207717430637660635
+    second: Alienjefe3_60
+  - first:
+      213: 2328583204400457229
+    second: Alienjefe3_61
+  - first:
+      213: 6097961138200224216
+    second: Alienjefe3_62
+  - first:
+      213: 7688910105799795096
+    second: Alienjefe3_63
+  - first:
+      213: 8319626435823013323
+    second: Alienjefe3_64
+  - first:
+      213: -1208128714257167565
+    second: Alienjefe3_65
+  - first:
+      213: -8534969892054985713
+    second: Alienjefe3_66
+  - first:
+      213: 8341625614065393795
+    second: Alienjefe3_67
+  - first:
+      213: 3098719556431934645
+    second: Alienjefe3_68
+  - first:
+      213: -1117832169033986168
+    second: Alienjefe3_69
+  - first:
+      213: -5174986791461032266
+    second: Alienjefe3_70
+  - first:
+      213: -864802222125809169
+    second: Alienjefe3_71
+  - first:
+      213: 7952127519771352425
+    second: Alienjefe3_72
+  - first:
+      213: -1483717386877864734
+    second: Alienjefe3_73
+  - first:
+      213: -6576319331558955779
+    second: Alienjefe3_74
+  - first:
+      213: -6424800459525416570
+    second: Alienjefe3_75
+  - first:
+      213: -615510938376718328
+    second: Alienjefe3_76
+  - first:
+      213: 2713371508102771653
+    second: Alienjefe3_77
+  - first:
+      213: 8093300642254243882
+    second: Alienjefe3_78
+  - first:
+      213: -2546725136247609486
+    second: Alienjefe3_79
+  - first:
+      213: 1697193714670772055
+    second: Alienjefe3_80
+  - first:
+      213: 7468169895284296511
+    second: Alienjefe3_81
+  - first:
+      213: 1646898772386163863
+    second: Alienjefe3_82
+  - first:
+      213: -7229033063711694160
+    second: Alienjefe3_83
+  - first:
+      213: 5577698649592344563
+    second: Alienjefe3_84
+  - first:
+      213: 8257651657272336595
+    second: Alienjefe3_85
+  - first:
+      213: 2107391177594756965
+    second: Alienjefe3_86
+  - first:
+      213: 7026419463453977207
+    second: Alienjefe3_87
+  - first:
+      213: 3838957016850145659
+    second: Alienjefe3_88
+  - first:
+      213: -5537379596796864911
+    second: Alienjefe3_89
+  - first:
+      213: 6667123882147782286
+    second: Alienjefe3_90
+  - first:
+      213: 883967547667896480
+    second: Alienjefe3_91
+  - first:
+      213: 5564451834388950054
+    second: Alienjefe3_92
+  - first:
+      213: -1113898709893453716
+    second: Alienjefe3_93
+  - first:
+      213: -8286396921678778779
+    second: Alienjefe3_94
+  - first:
+      213: -5258339220329562901
+    second: Alienjefe3_95
+  - first:
+      213: -1032311833532814755
+    second: Alienjefe3_96
+  - first:
+      213: -49995044603857298
+    second: Alienjefe3_97
+  - first:
+      213: -5324803675824219915
+    second: Alienjefe3_98
+  - first:
+      213: -3892798223194336482
+    second: Alienjefe3_99
+  - first:
+      213: 4261939404060698248
+    second: Alienjefe3_100
+  - first:
+      213: -1635174766016646428
+    second: Alienjefe3_101
+  - first:
+      213: 5283631602959941844
+    second: Alienjefe3_102
+  - first:
+      213: -6986957666242355870
+    second: Alienjefe3_103
+  - first:
+      213: -2401962999692537340
+    second: Alienjefe3_104
+  - first:
+      213: -8821792580597681023
+    second: Alienjefe3_105
+  - first:
+      213: 2977460913892837848
+    second: Alienjefe3_106
+  - first:
+      213: 8727235523936966606
+    second: Alienjefe3_107
+  - first:
+      213: 4729971379918658100
+    second: Alienjefe3_108
+  - first:
+      213: -7931516072847106018
+    second: Alienjefe3_109
+  - first:
+      213: 8770198930672098946
+    second: Alienjefe3_110
+  - first:
+      213: -1931170962791681185
+    second: Alienjefe3_111
+  - first:
+      213: -5912425656593572092
+    second: Alienjefe3_112
+  - first:
+      213: -8404228106725663303
+    second: Alienjefe3_113
+  - first:
+      213: -2552683164277683240
+    second: Alienjefe3_114
+  - first:
+      213: -4069099876026463921
+    second: Alienjefe3_115
+  - first:
+      213: 6469906080958710965
+    second: Alienjefe3_116
+  - first:
+      213: -8375128360121160968
+    second: Alienjefe3_117
+  - first:
+      213: 5390229803879301577
+    second: Alienjefe3_118
+  - first:
+      213: 4546544976018604417
+    second: Alienjefe3_119
+  - first:
+      213: -1015512919484800137
+    second: Alienjefe3_120
+  - first:
+      213: -7507006220467538892
+    second: Alienjefe3_121
+  - first:
+      213: 5753265414755917872
+    second: Alienjefe3_122
+  - first:
+      213: 3051562392434276609
+    second: Alienjefe3_123
+  - first:
+      213: -5531634215088222466
+    second: Alienjefe3_124
+  - first:
+      213: 5312119270707963297
+    second: Alienjefe3_125
+  - first:
+      213: 4376640092083680493
+    second: Alienjefe3_126
+  - first:
+      213: -6200205221002550838
+    second: Alienjefe3_127
+  - first:
+      213: -3209718571252099084
+    second: Alienjefe3_128
+  - first:
+      213: 334438772856605573
+    second: Alienjefe3_129
+  - first:
+      213: -571239133861930993
+    second: Alienjefe3_130
+  - first:
+      213: -7448653326799010420
+    second: Alienjefe3_131
+  - first:
+      213: 2823087664983233381
+    second: Alienjefe3_132
+  - first:
+      213: -4311088028687740166
+    second: Alienjefe3_133
+  - first:
+      213: -6715217226070836161
+    second: Alienjefe3_134
+  - first:
+      213: -1968180017643002895
+    second: Alienjefe3_135
+  - first:
+      213: -7710978473129457850
+    second: Alienjefe3_136
+  - first:
+      213: -3515249990563354757
+    second: Alienjefe3_137
+  - first:
+      213: -2199380524389319314
+    second: Alienjefe3_138
+  - first:
+      213: 8538476836216083728
+    second: Alienjefe3_139
+  - first:
+      213: 8652472032951093869
+    second: Alienjefe3_140
+  - first:
+      213: -5365359765633856842
+    second: Alienjefe3_141
+  - first:
+      213: 7424465835052139537
+    second: Alienjefe3_142
+  - first:
+      213: -6962198399749298447
+    second: Alienjefe3_143
+  - first:
+      213: -3638734772627891981
+    second: Alienjefe3_144
+  - first:
+      213: -8477348220510045610
+    second: Alienjefe3_145
+  - first:
+      213: -2465894544960445798
+    second: Alienjefe3_146
+  - first:
+      213: -4285207551519721275
+    second: Alienjefe3_147
+  - first:
+      213: -5515940738134907679
+    second: Alienjefe3_148
+  - first:
+      213: -618255264015527881
+    second: Alienjefe3_149
+  - first:
+      213: -982979484801017984
+    second: Alienjefe3_150
+  - first:
+      213: 546915518041243434
+    second: Alienjefe3_151
+  - first:
+      213: -5138429061763317460
+    second: Alienjefe3_152
+  - first:
+      213: -2187771766014295066
+    second: Alienjefe3_153
+  - first:
+      213: -2014702311778560199
+    second: Alienjefe3_154
+  - first:
+      213: -1795040933877961878
+    second: Alienjefe3_155
+  - first:
+      213: -1917376712037352559
+    second: Alienjefe3_156
+  - first:
+      213: 740523947731628041
+    second: Alienjefe3_157
+  - first:
+      213: 6288488660983795340
+    second: Alienjefe3_158
+  - first:
+      213: -2950552656741443676
+    second: Alienjefe3_159
+  - first:
+      213: 5858521999980305187
+    second: Alienjefe3_160
+  - first:
+      213: -4431617817019591853
+    second: Alienjefe3_161
+  - first:
+      213: 8171790941684537972
+    second: Alienjefe3_162
+  - first:
+      213: 1190880208800589426
+    second: Alienjefe3_163
+  - first:
+      213: 836824947209126342
+    second: Alienjefe3_164
+  - first:
+      213: -443783760461517784
+    second: Alienjefe3_165
+  - first:
+      213: 901175648212659765
+    second: Alienjefe3_166
+  - first:
+      213: 6701145340217057810
+    second: Alienjefe3_167
+  - first:
+      213: 4773992587547697631
+    second: Alienjefe3_168
+  - first:
+      213: -3609373521847958426
+    second: Alienjefe3_169
+  - first:
+      213: -4344357185635348678
+    second: Alienjefe3_170
+  - first:
+      213: -8768948653692878765
+    second: Alienjefe3_171
+  - first:
+      213: 5791131871643748275
+    second: Alienjefe3_172
+  - first:
+      213: -534728452879380750
+    second: Alienjefe3_173
+  - first:
+      213: 6407054617347572138
+    second: Alienjefe3_174
+  - first:
+      213: -8987237234381650018
+    second: Alienjefe3_175
+  - first:
+      213: 5915815728500533760
+    second: Alienjefe3_176
+  - first:
+      213: -7823752927017948644
+    second: Alienjefe3_177
+  - first:
+      213: -8278545076061607458
+    second: Alienjefe3_178
+  - first:
+      213: -6223949736291746353
+    second: Alienjefe3_179
+  - first:
+      213: 1445279440947507143
+    second: Alienjefe3_180
+  - first:
+      213: 5927038212991583730
+    second: Alienjefe3_181
+  - first:
+      213: -5736972592414992290
+    second: Alienjefe3_182
+  - first:
+      213: 3265172972754655881
+    second: Alienjefe3_183
+  - first:
+      213: -2320959341850236287
+    second: Alienjefe3_184
+  - first:
+      213: 7496497223831026910
+    second: Alienjefe3_185
+  - first:
+      213: 2936167183729258689
+    second: Alienjefe3_186
+  - first:
+      213: 4525982476573691556
+    second: Alienjefe3_187
+  - first:
+      213: 7142509200722786296
+    second: Alienjefe3_188
+  - first:
+      213: -334314256674148722
+    second: Alienjefe3_189
+  - first:
+      213: -3243496544117815063
+    second: Alienjefe3_190
+  - first:
+      213: 4041499810549845943
+    second: Alienjefe3_191
+  - first:
+      213: -1415194457736412797
+    second: Alienjefe3_192
+  - first:
+      213: -469307254714208713
+    second: Alienjefe3_193
+  - first:
+      213: -4060263443266902117
+    second: Alienjefe3_194
+  - first:
+      213: -9184195901983709748
+    second: Alienjefe3_195
+  - first:
+      213: -718424901818054734
+    second: Alienjefe3_196
+  - first:
+      213: 644279717625744746
+    second: Alienjefe3_197
+  - first:
+      213: 2678479329302846975
+    second: Alienjefe3_198
+  - first:
+      213: -1079074724476627728
+    second: Alienjefe3_199
+  - first:
+      213: -3328210178645119940
+    second: Alienjefe3_200
+  - first:
+      213: -7395135992614106166
+    second: Alienjefe3_201
+  - first:
+      213: 6178730877066244067
+    second: Alienjefe3_202
+  - first:
+      213: 4087701201405490769
+    second: Alienjefe3_203
+  - first:
+      213: 2189474171771961925
+    second: Alienjefe3_204
+  - first:
+      213: -2780552910106337471
+    second: Alienjefe3_205
+  - first:
+      213: 3233595117892498047
+    second: Alienjefe3_206
+  - first:
+      213: 4999818338089878922
+    second: Alienjefe3_207
+  - first:
+      213: 2952519020421528481
+    second: Alienjefe3_208
+  - first:
+      213: -3307713805924694983
+    second: Alienjefe3_209
+  - first:
+      213: 8124797327906639109
+    second: Alienjefe3_210
+  - first:
+      213: 3070459829546525794
+    second: Alienjefe3_211
+  - first:
+      213: 8320065176510318502
+    second: Alienjefe3_212
+  - first:
+      213: -8730130811473901609
+    second: Alienjefe3_213
+  - first:
+      213: -1604807698714926977
+    second: Alienjefe3_214
+  - first:
+      213: 5344336143607556235
+    second: Alienjefe3_215
+  - first:
+      213: 5764789496748560515
+    second: Alienjefe3_216
+  - first:
+      213: -3811109474443854531
+    second: Alienjefe3_217
+  - first:
+      213: -5957703859109959434
+    second: Alienjefe3_218
+  - first:
+      213: -9125309446438484060
+    second: Alienjefe3_219
+  - first:
+      213: 2014946281498458260
+    second: Alienjefe3_220
+  - first:
+      213: -35127001872393599
+    second: Alienjefe3_221
+  - first:
+      213: -1141354930262458670
+    second: Alienjefe3_222
+  - first:
+      213: 4632079627735309462
+    second: Alienjefe3_223
+  - first:
+      213: 8762263727551484634
+    second: Alienjefe3_224
+  - first:
+      213: 5896534866247108882
+    second: Alienjefe3_225
+  - first:
+      213: -9034504203555903519
+    second: Alienjefe3_226
+  - first:
+      213: -874730263665397951
+    second: Alienjefe3_227
+  - first:
+      213: -7142328312964295379
+    second: Alienjefe3_228
+  - first:
+      213: 361444808717764881
+    second: Alienjefe3_229
+  - first:
+      213: -5028506409626927722
+    second: Alienjefe3_230
+  - first:
+      213: -6716647362745728861
+    second: Alienjefe3_231
+  - first:
+      213: -3374556794357979729
+    second: Alienjefe3_232
+  - first:
+      213: -8817982492477920493
+    second: Alienjefe3_233
+  - first:
+      213: -1194967900289491615
+    second: Alienjefe3_234
+  - first:
+      213: 685147712102771134
+    second: Alienjefe3_235
+  - first:
+      213: 76952428645560621
+    second: Alienjefe3_236
+  - first:
+      213: -6672434543013970482
+    second: Alienjefe3_237
+  - first:
+      213: -2965596746732913118
+    second: Alienjefe3_238
+  - first:
+      213: 4245293574045902608
+    second: Alienjefe3_239
+  - first:
+      213: 348430893168145914
+    second: Alienjefe3_240
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Alienjefe3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1429
+        height: 1884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7304fd241b80b3fc0800000000000000
+      internalID: -3514205526808379337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_1
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 438
+        width: 11
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3bec53dc797b8c0800000000000000
+      internalID: -3983548437759085577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_2
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 450
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856838ddff4aa5540800000000000000
+      internalID: 4997488155360986712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_3
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 450
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8209b1f6f5b91a300800000000000000
+      internalID: 261661087552475176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_4
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 461
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c71818711f00a00800000000000000
+      internalID: 720841023638568056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_5
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 447
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500bca353cee11cd0800000000000000
+      internalID: -2589025788071464955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_6
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 455
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2597ae8b9c78d82a0800000000000000
+      internalID: -6733576567388473006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_7
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 426
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641c5f55f63cf31e0800000000000000
+      internalID: -2215837608692039354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_8
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 453
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6142d8766f7b022f0800000000000000
+      internalID: -999596848349109226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_9
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 456
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f5c1aa044975dd0800000000000000
+      internalID: -2497364462900846740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_10
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 459
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b400f0823f1608880800000000000000
+      internalID: -8610774790555369397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_11
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 457
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ae29e7e4b072800800000000000000
+      internalID: 587450708154051121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_12
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 452
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb51f48e05fcdf00800000000000000
+      internalID: 1143057848154020846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_13
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 440
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6955041e2bf597f60800000000000000
+      internalID: 8032556632279897494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_14
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 424
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2180e35f489d75f0800000000000000
+      internalID: -757281695851314897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_15
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 436
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdab9e7cab1826260800000000000000
+      internalID: 7089371402652465884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_16
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 428
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aadf107b53d264860800000000000000
+      internalID: 7513742737041128874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_17
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 445
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98f2b637cfcdd8f0800000000000000
+      internalID: -514026327927228259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_18
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 420
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d63132c10326dc0800000000000000
+      internalID: -3647299850810987157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_19
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 445
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688ff3194b3f5e380800000000000000
+      internalID: -8942473528217700218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_20
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 405
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c6e1b4dcb1223c0800000000000000
+      internalID: -4385912518562911214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_21
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 423
+        width: 13
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2e331588b562190800000000000000
+      internalID: -7987596248058961239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_22
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 426
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03d6be2bc1a68c80800000000000000
+      internalID: -8320785367486246131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_23
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 429
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde79322e39dcd550800000000000000
+      internalID: 6187058848985611999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_24
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 435
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de017a770bcecccb0800000000000000
+      internalID: -4842235256664289043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_25
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 436
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f27f041693a56330800000000000000
+      internalID: 3703546133559079670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_26
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 421
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea7b02fa156d18200800000000000000
+      internalID: 180661106390382510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_27
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 393
+        width: 11
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2578fe065478d1f80800000000000000
+      internalID: -8134196619912444078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_28
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 405
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f97793770cbf3e0800000000000000
+      internalID: -2018808389647753316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_29
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 418
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4361cc95b8b40b350800000000000000
+      internalID: 6030402962928178740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_30
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 405
+        width: 14
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c167fe3f42663a0800000000000000
+      internalID: -6672605167789663229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_31
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 417
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66de2a1baf20cef0800000000000000
+      internalID: -90019580622219665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_32
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 403
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece093c4a1de0f980800000000000000
+      internalID: -8507038998899126578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_33
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 410
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d025619cfc3906e0800000000000000
+      internalID: -1870897114726981423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_34
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 406
+        width: 10
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83cc29dfda2396250800000000000000
+      internalID: 5938333306529696824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_35
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 409
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8f1c9f90d022be0800000000000000
+      internalID: -1503624989092218717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_36
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 412
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed964757738134350800000000000000
+      internalID: 5999665755060464094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_37
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 412
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3edf86790dda9f70800000000000000
+      internalID: 9194904621943873085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_38
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 407
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2bf78c78bd564ce0800000000000000
+      internalID: -1421345585444160721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_39
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 396
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5acc3c775ef05230800000000000000
+      internalID: 3625677351733217886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_40
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 380
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c4468de921658b0800000000000000
+      internalID: -5163919449289110384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_41
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 391
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbcd8ee1b644ac300800000000000000
+      internalID: 273105954280103099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_42
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 391
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b1826282b1d12c0800000000000000
+      internalID: -4459378196774118596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_43
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 384
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31dc2530400b961c0800000000000000
+      internalID: -4509880020552725229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_44
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 401
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d1e742d6bfcebf0800000000000000
+      internalID: -293583429503672977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_45
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 375
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf734cb6e84674970800000000000000
+      internalID: 8739064164791891963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_46
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 400
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78fa8b2f14e20fdf0800000000000000
+      internalID: -148567926923284601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_47
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 389
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e069b86aaa22770800000000000000
+      internalID: 8584611472004746762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_48
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 381
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e36dceb2a5e243c0800000000000000
+      internalID: -4376683400702106656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_49
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 379
+        width: 13
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78487a934fd7993a0800000000000000
+      internalID: -6658152086197795705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_50
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 382
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584d5f0bbd1f8ead0800000000000000
+      internalID: -2672620452975356795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_51
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 385
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c63ea70706f6080800000000000000
+      internalID: -9192022278225564536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_52
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 375
+        width: 12
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c72f29ac9b642680800000000000000
+      internalID: -8780775052868114489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_53
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 392
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a97757d40af551480800000000000000
+      internalID: -8929125544093190246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_54
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 377
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a446c070c3511450800000000000000
+      internalID: 6057715059780895906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_55
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 349
+        width: 11
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a53a5368519b8550800000000000000
+      internalID: 6164180323796661670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_56
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 361
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1904236bdaab29270800000000000000
+      internalID: 8255866322172395665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_57
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 374
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3551aa34fa8708f0800000000000000
+      internalID: -574337645906143942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_58
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 346
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d18d9a83cd33f10800000000000000
+      internalID: 2248382774913801475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_59
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 373
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df70beb2df2960b0800000000000000
+      internalID: -5735000068290740264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_60
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 350
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5267f9f4a4f2b95c0800000000000000
+      internalID: -4207717430637660635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_61
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 361
+        width: 11
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06ea38461ac05020800000000000000
+      internalID: 2328583204400457229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_62
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 362
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1af88c85f40a450800000000000000
+      internalID: 6097961138200224216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_63
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 365
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 891ab1ee00f74ba60800000000000000
+      internalID: 7688910105799795096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_64
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 368
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd0e230a20457370800000000000000
+      internalID: 8319626435823013323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_65
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 364
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b80c7d55ddb3fe0800000000000000
+      internalID: -1208128714257167565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_66
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 362
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0498677a12bd8980800000000000000
+      internalID: -8534969892054985713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_67
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 352
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 380eaa7dc4863c370800000000000000
+      internalID: 8341625614065393795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_68
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 335
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b47ea3d40dd00b20800000000000000
+      internalID: 3098719556431934645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_69
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 347
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f89369099ac70f0800000000000000
+      internalID: -1117832169033986168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_70
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 332
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be60a17ee0ce28b0800000000000000
+      internalID: -5174986791461032266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_71
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 356
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1093df5fa9ff3f0800000000000000
+      internalID: -864802222125809169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_72
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 323
+        width: 16
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d5498d8d1ab5e60800000000000000
+      internalID: 7952127519771352425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_73
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 348
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4f210d5e6c86be0800000000000000
+      internalID: -1483717386877864734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_74
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 345
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4e4e829683cb4a0800000000000000
+      internalID: -6576319331558955779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_75
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 337
+        width: 14
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6899839a50686d6a0800000000000000
+      internalID: -6424800459525416570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_76
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 334
+        width: 13
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80830ba00144577f0800000000000000
+      internalID: -615510938376718328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_77
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 321
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3b124b205d7a520800000000000000
+      internalID: 2713371508102771653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_78
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 276
+        width: 95
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a284102dd0e215070800000000000000
+      internalID: 8093300642254243882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_79
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 347
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27727615bf638acd0800000000000000
+      internalID: -2546725136247609486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_80
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 332
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f1afdf0b4ad8710800000000000000
+      internalID: 1697193714670772055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_81
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 291
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3bcfa2a3f444a760800000000000000
+      internalID: 7468169895284296511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_82
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 317
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79caa1535b5fad610800000000000000
+      internalID: 1646898772386163863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_83
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 330
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b229e7cab05dab90800000000000000
+      internalID: -7229033063711694160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_84
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 262
+        width: 47
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ffa021be57f76d40800000000000000
+      internalID: 5577698649592344563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_85
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 320
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d022ae6e62199270800000000000000
+      internalID: 8257651657272336595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_86
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 306
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56fd35f4c15fe3d10800000000000000
+      internalID: 2107391177594756965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_87
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 314
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77aa012464bd28160800000000000000
+      internalID: 7026419463453977207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_88
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 318
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71a8513117b64530800000000000000
+      internalID: 3838957016850145659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_89
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 308
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1765d6258964723b0800000000000000
+      internalID: -5537379596796864911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_90
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 259
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e11fcc8d1668c50800000000000000
+      internalID: 6667123882147782286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_91
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 303
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8d7b71dcb744c00800000000000000
+      internalID: 883967547667896480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_92
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 278
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c268e2677e83d40800000000000000
+      internalID: 5564451834388950054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_93
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 303
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68e8096603aa80f0800000000000000
+      internalID: -1113898709893453716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_94
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 283
+        width: 11
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e227727edc00d80800000000000000
+      internalID: -8286396921678778779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_95
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 270
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec70c7c650a607b0800000000000000
+      internalID: -5258339220329562901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_96
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 290
+        width: 14
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a28d85bdd7ca1f0800000000000000
+      internalID: -1032311833532814755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_97
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 276
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e667bd595c16e4ff0800000000000000
+      internalID: -49995044603857298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_98
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 263
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f89dc3d44f7a16b0800000000000000
+      internalID: -5324803675824219915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_99
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 257
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13da3414a00af9c0800000000000000
+      internalID: -3892798223194336482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_100
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 218
+        width: 62
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8862749ae43752b30800000000000000
+      internalID: 4261939404060698248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_101
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 276
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e235edb631be49e0800000000000000
+      internalID: -1635174766016646428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_102
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 262
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d08472f2fa335940800000000000000
+      internalID: 5283631602959941844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_103
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 247
+        width: 12
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d9ee26507590f90800000000000000
+      internalID: -6986957666242355870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_104
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 281
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402d1bfb0638aaed0800000000000000
+      internalID: -2401962999692537340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_105
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 250
+        width: 13
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1847c474362b29580800000000000000
+      internalID: -8821792580597681023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_106
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 276
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d941390de0125920800000000000000
+      internalID: 2977460913892837848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_107
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 273
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7de6b587e5d1970800000000000000
+      internalID: 8727235523936966606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_108
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 256
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ad0d9d8eb34a140800000000000000
+      internalID: 4729971379918658100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_109
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 251
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10a5ab97289de190800000000000000
+      internalID: -7931516072847106018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_110
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 204
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e9830067106b970800000000000000
+      internalID: 8770198930672098946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_111
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 251
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f53b04abd3a1335e0800000000000000
+      internalID: -1931170962791681185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_112
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 254
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f95d1d038d2fda0800000000000000
+      internalID: -5912425656593572092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_113
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 109
+        width: 44
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd534f701f2e5b80800000000000000
+      internalID: -8404228106725663303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_114
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 249
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dbcb11df2c039cd0800000000000000
+      internalID: -2552683164277683240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_115
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 119
+        width: 20
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f494bd5c837a787c0800000000000000
+      internalID: -4069099876026463921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_116
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 232
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b40fa53d49b9c950800000000000000
+      internalID: 6469906080958710965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_117
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 235
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8faadaa312195cb80800000000000000
+      internalID: -8375128360121160968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_118
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 259
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c103fda271fdca40800000000000000
+      internalID: 5390229803879301577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_119
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 231
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1810dea2192981f30800000000000000
+      internalID: 4546544976018604417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_120
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 229
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773e941516c28e1f0800000000000000
+      internalID: -1015512919484800137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_121
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 215
+        width: 15
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4347266cd91c1d790800000000000000
+      internalID: -7507006220467538892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_122
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 74
+        width: 31
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0302111a964b7df40800000000000000
+      internalID: 5753265414755917872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_123
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 224
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1097cfaf3d3595a20800000000000000
+      internalID: 3051562392434276609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_124
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 239
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe054e3dffab33b0800000000000000
+      internalID: -5531634215088222466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_125
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 218
+        width: 16
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a52e07f45078b940800000000000000
+      internalID: 5312119270707963297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_126
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 174
+        width: 46
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4716ea9f2fcbc30800000000000000
+      internalID: 4376640092083680493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_127
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 232
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1ee9b933274f9a0800000000000000
+      internalID: -6200205221002550838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_128
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 229
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f75b8b17f9c473d0800000000000000
+      internalID: -3209718571252099084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_129
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 212
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b4c3fba4a24a400800000000000000
+      internalID: 334438772856605573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_130
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 213
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f089b58c80d8218f0800000000000000
+      internalID: -571239133861930993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_131
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 207
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c850d11934111a890800000000000000
+      internalID: -7448653326799010420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_132
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 210
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563dc11264f9d2720800000000000000
+      internalID: 2823087664983233381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_133
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 218
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2d0ae6740fb24c0800000000000000
+      internalID: -4311088028687740166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_134
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 205
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3cb67af281cec2a0800000000000000
+      internalID: -6715217226070836161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_135
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 208
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f3ed5aa3be9fa4e0800000000000000
+      internalID: -1968180017643002895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_136
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 204
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6474f66eee91df490800000000000000
+      internalID: -7710978473129457850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_137
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 187
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77a6c712c2573fc0800000000000000
+      internalID: -3515249990563354757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_138
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 191
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6dbcddd01b3a71e0800000000000000
+      internalID: -2199380524389319314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_139
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 215
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0159f899173ce7670800000000000000
+      internalID: 8538476836216083728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_140
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 187
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a4d01a871c31870800000000000000
+      internalID: 8652472032951093869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_141
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 185
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba883558b96a85b0800000000000000
+      internalID: -5365359765633856842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_142
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 171
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1148e492750090760800000000000000
+      internalID: 7424465835052139537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_143
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 173
+        width: 14
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f66627517d416f90800000000000000
+      internalID: -6962198399749298447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_144
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 173
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f817adc00e908dc0800000000000000
+      internalID: -3638734772627891981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_145
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 179
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a753755b86a5a80800000000000000
+      internalID: -8477348220510045610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_146
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 193
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a922f0ae9f167cdd0800000000000000
+      internalID: -2465894544960445798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_147
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 130
+        width: 45
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c878d69f62e784c0800000000000000
+      internalID: -4285207551519721275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_148
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 184
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4ec559f117373b0800000000000000
+      internalID: -5515940738134907679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_149
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 188
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730d6dfec148b67f0800000000000000
+      internalID: -618255264015527881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_150
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 181
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08750fadd51cb52f0800000000000000
+      internalID: -982979484801017984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_151
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 185
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f3ff614c8079700800000000000000
+      internalID: 546915518041243434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_152
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 168
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21cd0e2ef1a0b8b0800000000000000
+      internalID: -5138429061763317460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_153
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 169
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3c61d8b2973a1e0800000000000000
+      internalID: -2187771766014295066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_154
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 159
+        width: 11
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937d74afbe65a04e0800000000000000
+      internalID: -2014702311778560199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_155
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 163
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b2beaf7cbb617e0800000000000000
+      internalID: -1795040933877961878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_156
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 165
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b38620a0c1465e0800000000000000
+      internalID: -1917376712037352559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_157
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 174
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900b6346b9ed64a00800000000000000
+      internalID: 740523947731628041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_158
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 161
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ec20c8e13354750800000000000000
+      internalID: 6288488660983795340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_159
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 164
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a757dbcdf78d07d0800000000000000
+      internalID: -2950552656741443676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_160
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 160
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b13ad18b6ad4150800000000000000
+      internalID: 5858521999980305187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_161
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 144
+        width: 11
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353514c331bbf72c0800000000000000
+      internalID: -4431617817019591853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_162
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 143
+        width: 17
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a9cd1c098086170800000000000000
+      internalID: 8171790941684537972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_163
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 143
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2762a978d3bd68010800000000000000
+      internalID: 1190880208800589426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_164
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 140
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1c5951bdffc9b00800000000000000
+      internalID: 836824947209126342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_165
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 126
+        width: 15
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82caa98650d57d9f0800000000000000
+      internalID: -443783760461517784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_166
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 145
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ea2f73a7e918c00800000000000000
+      internalID: 901175648212659765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_167
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 129
+        width: 14
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212e6e7ce204ffc50800000000000000
+      internalID: 6701145340217057810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_168
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 129
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd1e025f6f0a04240800000000000000
+      internalID: 4773992587547697631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_169
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 135
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6644d88b7ede8edc0800000000000000
+      internalID: -3609373521847958426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_170
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 134
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f0ac4382eb5b3c0800000000000000
+      internalID: -4344357185635348678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_171
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 149
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3500ffac8af6e4680800000000000000
+      internalID: -8768948653692878765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_172
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 85
+        width: 45
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7c4c821cb3e5050800000000000000
+      internalID: 5791131871643748275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_173
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 139
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe84d22e434498f0800000000000000
+      internalID: -534728452879380750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_174
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 144
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1478b7a3e6ae850800000000000000
+      internalID: 6407054617347572138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_175
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 137
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97848c0a5be64380800000000000000
+      internalID: -8987237234381650018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_176
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 146
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a61fdcf03391250800000000000000
+      internalID: 5915815728500533760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_177
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 123
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a2ca63a227c6390800000000000000
+      internalID: -7823752927017948644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_178
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 124
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9e94c6d13bc1d80800000000000000
+      internalID: -8278545076061607458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_179
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 115
+        width: 11
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcdb174d0b610a9a0800000000000000
+      internalID: -6223949736291746353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_180
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 118
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cfe9de7ef9ae0410800000000000000
+      internalID: 1445279440947507143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_181
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 121
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f587871ad1114250800000000000000
+      internalID: 5927038212991583730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_182
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 129
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58d3fea2dd2260b0800000000000000
+      internalID: -5736972592414992290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_183
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 117
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a5f33e489305d20800000000000000
+      internalID: 3265172972754655881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_184
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 120
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a64ea86cb4acfd0800000000000000
+      internalID: -2320959341850236287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_185
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 115
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc7626c188e80860800000000000000
+      internalID: 7496497223831026910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_186
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 99
+        width: 12
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c077534f7c5fb820800000000000000
+      internalID: 2936167183729258689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_187
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 99
+        width: 14
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae41df25158fce30800000000000000
+      internalID: 4525982476573691556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_188
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 99
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f77a02864a4f1360800000000000000
+      internalID: 7142509200722786296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_189
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 96
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ea69f64f64c5bf0800000000000000
+      internalID: -334314256674148722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_190
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 100
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e886a1f319ccf2d0800000000000000
+      internalID: -3243496544117815063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_191
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 101
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bfc1a73aaa461830800000000000000
+      internalID: 4041499810549845943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_192
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 85
+        width: 14
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381058283283c5ce0800000000000000
+      internalID: -1415194457736412797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_193
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 94
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73eee30d98fac79f0800000000000000
+      internalID: -469307254714208713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_194
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 91
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97629919eb07a7c0800000000000000
+      internalID: -4060263443266902117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_195
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 102
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc5a9a2bc7e2b8080800000000000000
+      internalID: -9184195901983709748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_196
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 99
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b70751bb54a706f0800000000000000
+      internalID: -718424901818054734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_197
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 105
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d42195df0f0f800800000000000000
+      internalID: 644279717625744746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_198
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 41
+        width: 45
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd925142cedb2520800000000000000
+      internalID: 2678479329302846975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_199
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 95
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4d779514b5601f0800000000000000
+      internalID: -1079074724476627728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_200
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 92
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ca404e972dfc1d0800000000000000
+      internalID: -3328210178645119940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_201
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 74
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acbc78eeef23f5990800000000000000
+      internalID: -7395135992614106166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_202
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 102
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef65421ff24fb550800000000000000
+      internalID: 6178730877066244067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_203
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 80
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15636b9c59e6ab830800000000000000
+      internalID: 4087701201405490769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_204
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 71
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5424c5da823926e10800000000000000
+      internalID: 2189474171771961925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_205
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 74
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14fdee93cdd7969d0800000000000000
+      internalID: -2780552910106337471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_206
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 77
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f727b6d90a900ec20800000000000000
+      internalID: 3233595117892498047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_207
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 82
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85c45fc94ce26540800000000000000
+      internalID: 4999818338089878922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_208
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 85
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab3fcce76479f820800000000000000
+      internalID: 2952519020421528481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_209
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 73
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934043b81d3a812d0800000000000000
+      internalID: -3307713805924694983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_210
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 76
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d0be96f1411c070800000000000000
+      internalID: 8124797327906639109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_211
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 71
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2642a3d62f67c9a20800000000000000
+      internalID: 3070459829546525794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_212
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 69
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7cef9423fc67370800000000000000
+      internalID: 8320065176510318502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_213
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 55
+        width: 14
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7c76bf74858d680800000000000000
+      internalID: -8730130811473901609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_214
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 55
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70e84196e39ab9e0800000000000000
+      internalID: -1604807698714926977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_215
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 57
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8862083865ea2a40800000000000000
+      internalID: 5344336143607556235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_216
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 37
+        width: 11
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 380d99e0185a00050800000000000000
+      internalID: 5764789496748560515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_217
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 54
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3df5a700283c1bc0800000000000000
+      internalID: -3811109474443854531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_218
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 49
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8e6c8c7ebf15da0800000000000000
+      internalID: -5957703859109959434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_219
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 47
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7848b08636c5180800000000000000
+      internalID: -9125309446438484060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_220
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 57
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 498b536a7f686fb10800000000000000
+      internalID: 2014946281498458260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_221
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 55
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a1f5b8d24338ff0800000000000000
+      internalID: -35127001872393599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_222
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 60
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2deb013fcb71920f0800000000000000
+      internalID: -1141354930262458670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_223
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 42
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c9c7e21e3784040800000000000000
+      internalID: 4632079627735309462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_224
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 51
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad21ffc8f60d99970800000000000000
+      internalID: 8762263727551484634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_225
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 48
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2194d5c3833b4d150800000000000000
+      internalID: 5896534866247108882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_226
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 34
+        width: 12
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7e6413b4efe9280800000000000000
+      internalID: -9034504203555903519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_227
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 40
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14fa0ffa5755cd3f0800000000000000
+      internalID: -874730263665397951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_228
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 38
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d255c84bd3a51ec90800000000000000
+      internalID: -7142328312964295379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_229
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 41
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1190885732c140500800000000000000
+      internalID: 361444808717764881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_230
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 31
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d79670018273ab0800000000000000
+      internalID: -5028506409626927722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_231
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 27
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a00af55fcca9c2a0800000000000000
+      internalID: -6716647362745728861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_232
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 24
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa569e5897a2b21d0800000000000000
+      internalID: -3374556794357979729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_233
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 13
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b6d3c84ab30a580800000000000000
+      internalID: -8817982492477920493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_234
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 10
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d1041a60f9a6fe0800000000000000
+      internalID: -1194967900289491615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_235
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 13
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9ae8ec632228900800000000000000
+      internalID: 685147712102771134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_236
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 10
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d21b50e73d3611100800000000000000
+      internalID: 76952428645560621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_237
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 16
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd3b9c9220c663a0800000000000000
+      internalID: -6672434543013970482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_238
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 14
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e3ee3a87518d6d0800000000000000
+      internalID: -2965596746732913118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_239
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 7
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017214853005aea30800000000000000
+      internalID: 4245293574045902608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienjefe3_240
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 4
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af53f002d00e5d400800000000000000
+      internalID: 348430893168145914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
